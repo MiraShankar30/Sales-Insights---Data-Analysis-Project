@@ -9,19 +9,19 @@ The Sales Director of XYZ Hardware has chosen to develop a PowerBI Dashboard to 
 ### 1.Data Retrieval using MySQL:
 Employed MySQL as the database management system to extract relevant data for the PowerBI Dashboard.
 <br>
-### Data Cleaning in Power Query:
+### 2.Data Cleaning in Power Query:
 Utilized Power Query to clean and refine the extracted data.
 <br>
-### ETL Process (Extract, Transform, Load):
+### 3.ETL Process (Extract, Transform, Load):
 Executed the ETL process to extract data from the source, transform it according to the project requirements, and loaded the refined data into PowerBI.
 <br>
-### Creation of Measures:
+### 4.Creation of Measures:
 Created measure for the requirements and used them for creating visuals in PowerBI.
 <br>
-### Currency Conversion:
+### 5.Currency Conversion:
 In the currency there were two types of currencies in transactions, performed currency conversion to make all the currency type same.
 <br>
-### Data Validation, Data Modelling and Visualization:
+### 6.Data Validation, Data Modelling and Visualization:
 Implemented robust data validation, modelling and visualization using PowerBI's visualization tools
 <br>
 ## Insights
